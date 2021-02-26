@@ -1,0 +1,19 @@
+{
+    "empId": "5e5a766afa73dddb81a1c939",
+    "age": 21,
+    "eyeColor": "brown",
+    "name": "Allison Strong",
+    "gender": "male",
+    "company": "ENERFORCE",
+    "email": "allisonstrong@enerforce.com",
+    "phone": "+1 (963) 503-2603",
+    "address": {
+      "addId": "5e5a766a0e58c8b905902b40",
+      "door": 822,
+      "street": "Bushwick Place",
+      "city": "Castleton",
+      "state": "Guam",
+      "pin": 2457
+    },
+    "favoriteFruit": "banana"
+  }

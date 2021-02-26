@@ -1,0 +1,2 @@
+LOAD CSV WITH HEADERS FROM "file:///users.csv" AS row
+RETURN row LIMIT 5
